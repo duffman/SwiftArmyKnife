@@ -1,2 +1,2 @@
-# SwiftArmyKnife
-Collection of Swift Utilities for Object Reflection, Structured Trees, JSON, XML
+# Swift Utilities
+Small collection of Swift Utilities for Object Reflection, Structured Trees, JSON, XML
